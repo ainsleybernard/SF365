@@ -1,0 +1,95 @@
+3:46:06 PM	Deploying Plugins
+3:46:06 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+3:46:06 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+3:46:06 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+3:46:06 PM	2 plugin(s) found!
+3:46:07 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+3:50:36 PM	Deploying Plugins
+3:50:36 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+3:50:36 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+3:50:36 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+3:50:36 PM	2 plugin(s) found!
+3:50:36 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+3:59:51 PM	Deploying Plugins
+3:59:51 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+3:59:51 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+3:59:51 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+3:59:51 PM	2 plugin(s) found!
+3:59:52 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:03:12 PM	Deploying Plugins
+4:03:12 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:03:13 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:03:13 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:03:13 PM	2 plugin(s) found!
+4:03:13 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:03:41 PM	Deploying Plugins
+4:03:41 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:03:41 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:03:41 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:03:41 PM	2 plugin(s) found!
+4:03:41 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:07:22 PM	Deploying Plugins
+4:07:22 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:07:22 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:07:22 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:07:22 PM	2 plugin(s) found!
+4:07:22 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:40:22 PM	Deploying Plugins
+4:40:22 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:40:22 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:40:22 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:40:22 PM	2 plugin(s) found!
+4:40:22 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:53:19 PM	Deploying Plugins
+4:53:19 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:53:19 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:53:19 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:53:19 PM	2 plugin(s) found!
+4:53:19 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:57:01 PM	Deploying Plugins
+4:57:01 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+4:57:01 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+4:57:01 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:57:01 PM	2 plugin(s) found!
+4:57:01 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+5:07:18 PM	Deploying Plugins
+5:07:18 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+5:07:18 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+5:07:18 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:07:18 PM	2 plugin(s) found!
+5:07:18 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+5:08:10 PM	Deploying Plugins
+5:08:10 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+5:08:10 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+5:08:10 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:08:10 PM	2 plugin(s) found!
+5:08:11 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+5:18:21 PM	Deploying Plugins
+5:18:21 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+5:18:21 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+5:18:21 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:18:21 PM	2 plugin(s) found!
+5:18:21 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+5:20:02 PM	Deploying Plugins
+5:20:02 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+5:20:02 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+5:20:03 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:20:03 PM	2 plugin(s) found!
+5:20:03 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+5:27:11 PM	Deploying Plugins
+5:27:11 PM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+5:27:11 PM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+5:27:11 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:27:11 PM	2 plugin(s) found!
+5:27:11 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+10:08:38 AM	Deploying Plugins
+10:08:38 AM	Searching for plugin config in 'C:\Users\bernara\Source\repos\SF365\Plugins\spkl\..'
+10:08:38 AM	Using Config 'C:\Users\bernara\Source\repos\SF365\Plugins'
+10:08:38 AM	Checking assembly 'microsoft.identitymodel.dll' for plugins
+10:08:38 AM	Checking assembly 'SF365.Plugins.dll' for plugins
+10:08:38 AM	2 plugin(s) found!
+10:08:39 AM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bernara\Source\repos\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+10:08:41 AM	Registering Type 'SF365.Plugins.AccountPlugin'
+10:08:42 AM	Registering Step 'Pre-Update Account'
+10:08:44 AM	Registering Image 'PreImage'
+10:08:44 AM	Processed 1 config(s)
