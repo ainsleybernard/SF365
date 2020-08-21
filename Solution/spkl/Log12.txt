@@ -1,0 +1,5 @@
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Relationships.xml
+2:11:36 PM	Processing Component: optionsets
+2:11:36 PM	Processing Component: WebResources
+2:11:36 PM	 - sf365_js/checkin.js
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js.data.xml

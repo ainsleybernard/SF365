@@ -1,0 +1,25 @@
+2:11:36 PM	Reading mapping directives...
+2:11:36 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2:11:36 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2:11:36 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2:11:36 PM	Read-only files will be over-written or deleted.
+2:11:36 PM	
+2:11:36 PM	Extracting C:\Users\bernara\AppData\Local\Temp\tmpFF93.zip to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package
+2:11:36 PM	
+2:11:36 PM	Processing Component: Entities
+2:11:36 PM	 - Account
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\RibbonDiff.xml
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\Entity.xml
+2:11:36 PM	Processing Component: Roles
+2:11:36 PM	Processing Component: Workflows
+2:11:36 PM	Processing Component: FieldSecurityProfiles
+2:11:36 PM	Processing Component: Templates
+2:11:36 PM	Processing Component: EntityMaps
+2:11:36 PM	Processing Component: EntityRelationships
+2:11:36 PM	Skipping 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js' as it matches a mapping directive
+2:11:36 PM	Processing Component: CustomControls
+2:11:36 PM	Processing Component: EntityDataProviders
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Customizations.xml
+2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Solution.xml
