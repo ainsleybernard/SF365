@@ -5,7 +5,7 @@
     <IntroducedVersion>5.0.0.0</IntroducedVersion>
     <FormPresentation>1</FormPresentation>
     <FormActivationState>1</FormActivationState>
-    <form showImage="true">
+    <form showImage="true" headerdensity="HighWithControls">
       <ancestor id="{8448b78f-8f42-454e-8e2a-f8196b0419af}" />
       <hiddencontrols>
         <data id="address1_addressid" datafieldname="address1_addressid" classid="{5546E6CD-394C-4bee-94A8-4425E17EF6C6}" />
@@ -51,6 +51,15 @@
                           <label description="Télécopie" languagecode="1036" />
                         </labels>
                         <control id="fax" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="fax" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{3e3aaaec-78ab-4c08-a0e9-0d011b40045e}" locklevel="0">
+                        <labels>
+                          <label description="Address 1: Fax" languagecode="1033" />
+                          <label description="Adresse 1 : Télécopie" languagecode="1036" />
+                        </labels>
+                        <control id="address1_fax" classid="{4273EDBD-AC1D-40D3-9FB2-095C621B552D}" datafieldname="address1_fax" disabled="false" />
                       </cell>
                     </row>
                     <row>
@@ -2101,6 +2110,27 @@
         <Library name="msdyn_/Utils/FieldServiceTrial.js" libraryUniqueId="{81848ec9-2a66-58a9-8e79-84d836110771}" />
         <Library name="msdyn_/Account/Account.Library.js" libraryUniqueId="{d8db2d05-4b38-9935-cedb-cdacb9e65d75}" />
       </formLibraries>
+      <footer id="{9b71bbfd-10d9-4fec-8d91-051a2eda6757}" celllabelposition="Top" columns="111" labelwidth="115" celllabelalignment="Left">
+        <rows>
+          <row>
+            <cell id="{2a081868-b360-4ebd-ba05-a5d9b77b0d3e}" showlabel="false">
+              <labels>
+                <label description="" languagecode="1033" />
+              </labels>
+            </cell>
+            <cell id="{307b3423-e270-40ea-ae35-11946cde43dd}" showlabel="false">
+              <labels>
+                <label description="" languagecode="1033" />
+              </labels>
+            </cell>
+            <cell id="{54c3ceb3-09e1-478b-92b7-4e4cd1a5969b}" showlabel="false">
+              <labels>
+                <label description="" languagecode="1033" />
+              </labels>
+            </cell>
+          </row>
+        </rows>
+      </footer>
     </form>
     <LocalizedNames>
       <LocalizedName description="Account" languagecode="1033" />
