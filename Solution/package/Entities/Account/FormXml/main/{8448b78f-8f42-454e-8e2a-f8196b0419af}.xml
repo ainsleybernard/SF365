@@ -38,7 +38,7 @@
                     <row>
                       <cell id="{3441a91e-47c5-672c-7a20-902d6baa9036}" showlabel="true">
                         <labels>
-                          <label description="Phone" languagecode="1033" />
+                          <label description="Phone (Business)" languagecode="1033" />
                           <label description="Téléphone" languagecode="1036" />
                         </labels>
                         <control id="telephone1" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="telephone1" disabled="false" />
