@@ -12,7 +12,7 @@ REM spkl plugins [path] [connection-string] [/p:release]
 "%spkl_path%" plugins "%cd%\.." %*
 
 if errorlevel 1 (
-echo Error Codex=%errorlevel%
+echo Error Code=%errorlevel%
 exit /b %errorlevel%
 )
 

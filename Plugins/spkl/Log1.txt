@@ -93,3 +93,15 @@
 10:08:42 AM	Registering Step 'Pre-Update Account'
 10:08:44 AM	Registering Image 'PreImage'
 10:08:44 AM	Processed 1 config(s)
+4:59:25 PM	Deploying Plugins
+4:59:25 PM	Searching for plugin config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\spkl\..'
+4:59:25 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins'
+4:59:25 PM	Checking assembly 'microsoft.identitymodel.dll' for plugins
+4:59:26 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+4:59:26 PM	2 plugin(s) found!
+4:59:26 PM	Checking for orphaned PluginTypes: 'SF365.Plugins' 
+4:59:26 PM	Updating Plugin 'SF365.Plugins' from 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+4:59:27 PM	Updating Type 'SF365.Plugins.AccountPlugin'
+4:59:28 PM	Updating Step 'Pre-Update Account'
+4:59:30 PM	Updating Image 'PreImage'
+4:59:30 PM	Processed 1 config(s)

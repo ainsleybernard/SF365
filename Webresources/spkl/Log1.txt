@@ -1,0 +1,9 @@
+11:52:03 AM	Deploying WebResources
+11:52:03 AM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources'
+11:52:04 AM	Creating Webresource 'sf365_\js\checkin.js' -> 'sf365_js/checkin.js'
+11:52:06 AM	Adding to solution 'SpaceFlight'
+11:52:06 AM	Deployed 1 webresource(s)
+11:52:06 AM	Publishing 1 webresources...
+11:52:12 AM	Publish complete.
+11:52:12 AM	Processed 1 section(s)
+11:52:12 AM	Processed 1 config(s)
