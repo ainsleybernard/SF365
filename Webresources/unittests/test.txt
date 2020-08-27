@@ -1,0 +1,445 @@
+devenv.exe Information: 0 : Time:09:45:59.3896483; Thread:45; Message:Chutzpah run started in mode Execution with parallelism set to 4
+devenv.exe Information: 0 : Time:09:45:59.3981661; Thread:45; Message:Trying to build test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:45:59.4648443; Thread:45; Message:Building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:45:59.4934275; Thread:45; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:45:59.6242683; Thread:45; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+devenv.exe Information: 0 : Time:09:45:59.6332917; Thread:45; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:45:59.6383109; Thread:45; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+devenv.exe Information: 0 : Time:09:45:59.6438198; Thread:45; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+devenv.exe Warning: 0 : Time:09:45:59.6488334; Thread:45; Message:Referenced file '../node_modules/requirejs/require.js' which was resolved to 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\../node_modules/requirejs/require.js' does not exist
+devenv.exe Information: 0 : Time:09:45:59.6533451; Thread:45; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+devenv.exe Information: 0 : Time:09:45:59.6578579; Thread:45; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:45:59.6618696; Thread:45; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' for expanded references
+devenv.exe Information: 0 : Time:09:45:59.6804183; Thread:45; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+devenv.exe Information: 0 : Time:09:45:59.6849301; Thread:45; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+devenv.exe Information: 0 : Time:09:45:59.6899425; Thread:45; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+devenv.exe Information: 0 : Time:09:45:59.6969617; Thread:45; Message:Finished building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:45:59.7210254; Thread:45; Message:Skipping batch compile since all files are update to date for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json
+devenv.exe Information: 0 : Time:09:45:59.7325567; Thread:55; Message:Start test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:45:59.7701563; Thread:55; Message:Using builtin Test Harness from c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+devenv.exe Information: 0 : Time:09:45:59.8077559; Thread:55; Message:Invoking headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:46:01.0957533; Thread:55; Message:Started headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 255664 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:46:03.5168018; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:46:03.5348526; Thread:19; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:46:03.5458818; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.5509238; Thread:19; Message:Phantom Log - Url Change file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:46:03.5579148; Thread:19; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:46:03.5759629; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:46:03.5829810; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.5899998; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:46:03.6030340; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.6145688; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:46:03.6466542; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.6551773; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:46:03.6702429; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.6752560; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:46:03.6807710; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.6897944; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:46:03.6973151; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.7068407; Thread:19; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:46:03.7123549; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.7218809; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:46:03.7278965; Thread:19; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:46:03.7394264; Thread:19; Message:Phantom Log - onQUnitLoaded
+devenv.exe Information: 0 : Time:09:46:03.7459449; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:46:03.7559716; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:46:03.7609844; Thread:19; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:46:03.7705089; Thread:19; Message:Phantom Log - onPageLoaded
+devenv.exe Information: 0 : Time:09:46:03.7790341; Thread:19; Message:Phantom Log - Starting QUnit from Phantom onPageLoaded...
+devenv.exe Information: 0 : Time:09:46:03.7880559; Thread:19; Message:Phantom Log - Starting QUnit ...
+devenv.exe Information: 0 : Time:09:46:03.8271608; Thread:19; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:46:03.8341789; Thread:19; Message:Phantom Log - Url Change about:blank
+devenv.exe Information: 0 : Time:09:46:03.8396939; Thread:19; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:46:03.8747870; Thread:55; Message:Finished reading stream from test file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:46:03.8823073; Thread:55; Message:Ended headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 255664 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:46:03.8898269; Thread:55; Message:Test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts' finished with 0 passed, 0 failed and 0 errors
+devenv.exe Information: 0 : Time:09:46:03.8953418; Thread:55; Message:Finished running headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:46:03.9048671; Thread:55; Message:Finished test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:46:03.9108838; Thread:45; Message:Cleaning up test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:46:03.9274286; Thread:45; Message:Chutzpah run finished with 0 passed, 0 failed and 0 errors
+devenv.exe Information: 0 : Time:09:46:03.9359499; Thread:45; Message:Chutzpah.json file cache cleared
+devenv.exe Information: 0 : Time:09:46:38.6209868; Thread:18; Message:Begin GetTestContainers
+devenv.exe Information: 0 : Time:09:46:38.6290067; Thread:18; Message:Begin Initial test container search
+devenv.exe Information: 0 : Time:09:46:38.6450498; Thread:18; Message:Chutzpah.json file cache cleared
+devenv.exe Information: 0 : Time:09:46:38.6515672; Thread:18; Message:Begin enumerating loaded projects for test files
+devenv.exe Information: 0 : Time:09:46:38.6666067; Thread:18; Message:Begin selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj'
+devenv.exe Information: 0 : Time:09:46:38.7087194; Thread:18; Message:End selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj'
+devenv.exe Information: 0 : Time:09:46:38.7172411; Thread:18; Message:Begin selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8054762; Thread:18; Message:End selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8119993; Thread:18; Message:Begin selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8581174; Thread:18; Message:End selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8656366; Thread:18; Message:Begin selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8826818; Thread:18; Message:End selecting potential test files from project 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj'
+devenv.exe Information: 0 : Time:09:46:38.8891996; Thread:18; Message:Begin selecting potential test files from project ''
+devenv.exe Information: 0 : Time:09:46:38.8952152; Thread:18; Message:End selecting potential test files from project ''
+devenv.exe Information: 0 : Time:09:46:38.9012312; Thread:18; Message:End enumerating loaded projects for test files
+devenv.exe Information: 0 : Time:09:46:38.9077483; Thread:18; Message:Begin UpdateTestContainersAndFileWatchers
+devenv.exe Information: 0 : Time:09:46:38.9147686; Thread:18; Message:Adding watch on c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:46:38.9172736; Thread:49; Message:Adding watch on c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\chutzpah.json
+devenv.exe Information: 0 : Time:09:46:38.9177746; Thread:60; Message:Adding watch on c:\users\bernara\documents\github\sf365_\sf365\webresources\webresources\sf365_\js\checkin.ts
+devenv.exe Information: 0 : Time:09:46:38.9363244; Thread:18; Message:Determining if c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts might be a test file
+devenv.exe Information: 0 : Time:09:46:38.9518653; Thread:18; Message:Chutzpah.json file found at c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\chutzpah.json given starting directory c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests
+devenv.exe Information: 0 : Time:09:46:38.9428411; Thread:60; Message:Determining if c:\users\bernara\documents\github\sf365_\sf365\webresources\webresources\sf365_\js\checkin.ts might be a test file
+devenv.exe Information: 0 : Time:09:46:38.9649002; Thread:60; Message:Chutzpah.json file not found given starting directory c:\users\bernara\documents\github\sf365_\sf365\webresources\webresources\sf365_\js
+devenv.exe Information: 0 : Time:09:46:38.9608895; Thread:18; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:46:38.9814443; Thread:18; Message:Added test container for 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:46:38.9904685; Thread:18; Message:End UpdateTestContainersAndFileWatchers
+devenv.exe Information: 0 : Time:09:46:39.0004948; Thread:18; Message:End Initial test container search
+devenv.exe Information: 0 : Time:09:46:39.0065108; Thread:18; Message:End GetTestContainers
+Informational: ------ Discover test started ------
+testhost.x86.exe Information: 0 : Time:09:46:45.2016034; Thread:3; Message:Chutzpah run started in mode Discovery with parallelism set to 4
+testhost.x86.exe Information: 0 : Time:09:46:45.2096248; Thread:3; Message:Trying to build test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:46:45.2246692; Thread:3; Message:Building test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:46:45.2437165; Thread:3; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+testhost.x86.exe Information: 0 : Time:09:46:45.2692943; Thread:3; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+testhost.x86.exe Information: 0 : Time:09:46:45.2813253; Thread:3; Message:Added file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:09:46:45.2863388; Thread:3; Message:Processing referenced file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+testhost.x86.exe Information: 0 : Time:09:46:45.2913520; Thread:3; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+testhost.x86.exe Warning: 0 : Time:09:46:45.2993729; Thread:3; Message:Referenced file '../node_modules/requirejs/require.js' which was resolved to 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\../node_modules/requirejs/require.js' does not exist
+testhost.x86.exe Information: 0 : Time:09:46:45.3053897; Thread:3; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+testhost.x86.exe Information: 0 : Time:09:46:45.3124074; Thread:3; Message:Added file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:09:46:45.3174213; Thread:3; Message:Processing referenced file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\Webresources\sf365_\js\checkin.js' for expanded references
+testhost.x86.exe Information: 0 : Time:09:46:45.3324611; Thread:3; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+testhost.x86.exe Information: 0 : Time:09:46:45.3434907; Thread:3; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+testhost.x86.exe Information: 0 : Time:09:46:45.3500123; Thread:3; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:09:46:45.3635528; Thread:3; Message:Finished building test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:46:45.3836058; Thread:3; Message:Skipping batch compile since all files are update to date for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\chutzpah.json
+testhost.x86.exe Information: 0 : Time:09:46:45.3956382; Thread:11; Message:Start test run for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:09:46:45.4512900; Thread:11; Message:Using builtin Test Harness from C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+testhost.x86.exe Information: 0 : Time:09:46:45.4883889; Thread:11; Message:Invoking headless browser on test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:46:45.5310048; Thread:11; Message:Started headless browser: C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\phantomjs.exe with PID: 272676 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:09:46:47.4756781; Thread:7; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:46:47.4836716; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:46:47.4886876; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.4987118; Thread:10; Message:Phantom Log - Url Change file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:46:47.5047292; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:46:47.5147594; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:46:47.5237832; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.5358195; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:09:46:47.5448440; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.5518618; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:09:46:47.5578785; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.5669031; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:09:46:47.5759258; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.5979863; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:09:46:47.6040009; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6090137; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6155332; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6200457; Thread:10; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6245578; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6299761; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6339853; Thread:10; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6369939; Thread:10; Message:Phantom Log - onQUnitLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6420070; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6480223; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6530369; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:09:46:47.6570472; Thread:10; Message:Phantom Log - onPageLoaded
+testhost.x86.exe Information: 0 : Time:09:46:47.6620696; Thread:10; Message:Phantom Log - Starting QUnit from Phantom onPageLoaded...
+testhost.x86.exe Information: 0 : Time:09:46:47.6680753; Thread:10; Message:Phantom Log - Starting QUnit ...
+testhost.x86.exe Information: 0 : Time:09:46:47.6821134; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:46:47.6871272; Thread:10; Message:Phantom Log - Url Change about:blank
+testhost.x86.exe Information: 0 : Time:09:46:47.6911386; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:46:47.7671520; Thread:11; Message:Finished reading stream from test file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:46:47.7821932; Thread:11; Message:Ended headless browser: C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\phantomjs.exe with PID: 272676 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:09:46:47.7922192; Thread:11; Message:Test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts' finished with 0 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:09:46:47.8002402; Thread:11; Message:Finished running headless browser on test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:46:47.8052537; Thread:11; Message:Finished test run for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:09:46:47.8122796; Thread:3; Message:Cleaning up test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:46:47.8223038; Thread:3; Message:Chutzpah run finished with 0 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:09:46:47.8308305; Thread:3; Message:Chutzpah.json file cache cleared
+testhost.x86.exe Information: 0 : Time:09:46:47.8358436; Thread:3; Message:End Test Adapter Discover Tests
+Warning: No test is available in c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:08.106141) ==========
+Informational: ------ Discover test started ------
+Warning: No test is available in C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:02.9352527) ==========
+Informational: ------ Discover test started ------
+Informational: ========== Discover test finished: 1 found (0:00:02.9101704) ==========
+Informational: ------ Discover test started ------
+Warning: No test is available in C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:04.0991232) ==========
+Informational: ------ Discover test started ------
+Warning: No test is available in C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins.Tests\Plugins.Tests.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:03.9975814) ==========
+Informational: ------ Discover test started ------
+Informational: ========== Discover test finished: 0 found (0:00:01.0104438) ==========
+devenv.exe Information: 0 : Time:09:51:51.6116322; Thread:48; Message:Chutzpah.json file found at C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json given starting directory C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests
+devenv.exe Information: 0 : Time:09:51:51.6216631; Thread:48; Message:Chutzpah run started in mode Execution with parallelism set to 4
+devenv.exe Information: 0 : Time:09:51:51.6326923; Thread:48; Message:Trying to build test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:51:51.6437264; Thread:48; Message:Building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:51:51.6497420; Thread:48; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:51:51.6557581; Thread:48; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+devenv.exe Information: 0 : Time:09:51:51.6617741; Thread:48; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:51:51.6898480; Thread:48; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+devenv.exe Information: 0 : Time:09:51:51.6958648; Thread:48; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+devenv.exe Information: 0 : Time:09:51:51.7028836; Thread:48; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:51:51.7179234; Thread:48; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' for expanded references
+devenv.exe Information: 0 : Time:09:51:51.7254638; Thread:48; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+devenv.exe Information: 0 : Time:09:51:51.7329844; Thread:48; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:51:51.7390061; Thread:48; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' for expanded references
+devenv.exe Information: 0 : Time:09:51:51.7480299; Thread:48; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+devenv.exe Information: 0 : Time:09:51:51.7540459; Thread:48; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+devenv.exe Information: 0 : Time:09:51:51.7620697; Thread:48; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+devenv.exe Information: 0 : Time:09:51:51.7680963; Thread:48; Message:Finished building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:51:51.7740996; Thread:48; Message:Skipping batch compile since all files are update to date for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json
+devenv.exe Information: 0 : Time:09:51:51.7811181; Thread:36; Message:Start test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:51:51.7981633; Thread:36; Message:Using builtin Test Harness from c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+devenv.exe Information: 0 : Time:09:51:51.8051825; Thread:36; Message:Invoking headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:51:51.8372749; Thread:36; Message:Started headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 275176 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:51:53.6782297; Thread:58; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:51:53.6832442; Thread:58; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:51:53.6892567; Thread:58; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.6942709; Thread:58; Message:Phantom Log - Url Change file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:51:53.7063029; Thread:58; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:51:53.7163289; Thread:47; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:51:53.7223463; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7278651; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:51:53.7333794; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7388943; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:51:53.7439117; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7489256; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:51:53.7549430; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7589522; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:51:53.7639672; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7699811; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:51:53.7729913; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7780045; Thread:47; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:51:53.7820124; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7880291; Thread:47; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:51:53.7930436; Thread:47; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:51:53.7980554; Thread:47; Message:Phantom Log - onQUnitLoaded
+devenv.exe Information: 0 : Time:09:51:53.8030682; Thread:47; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:51:53.8070796; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/requirejs/require.js
+devenv.exe Information: 0 : Time:09:51:53.8110917; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/requirejs/require.js
+devenv.exe Information: 0 : Time:09:51:53.8151006; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:51:53.8211169; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:51:53.8266361; Thread:57; Message:Phantom Log - Test file is using module loader.
+devenv.exe Information: 0 : Time:09:51:53.8316492; Thread:57; Message:Phantom Log - onPageLoaded
+devenv.exe Information: 0 : Time:09:51:53.8381670; Thread:57; Message:Phantom Log - Test file is using module loader.
+devenv.exe Information: 0 : Time:09:51:53.8427091; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/checkin-tests.js
+devenv.exe Information: 0 : Time:09:51:53.8477237; Thread:57; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/checkin-tests.js
+devenv.exe Information: 0 : Time:09:51:53.8527365; Thread:57; Message:Phantom Log - Starting QUnit from inline AMD call...
+devenv.exe Information: 0 : Time:09:51:53.9008656; Thread:57; Message:Test Case Started:'Client Unit Tests:checkin Test'
+devenv.exe Information: 0 : Time:09:51:53.9058784; Thread:57; Message:Phantom Log - Alert raised with message bar
+devenv.exe Information: 0 : Time:09:51:53.9149026; Thread:57; Message:File C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts, Test checkin Test failed
+devenv.exe Information: 0 : Time:09:51:53.9304449; Thread:57; Message:Test Case Finished:'Client Unit Tests:checkin Test'
+devenv.exe Information: 0 : Time:09:51:53.9369630; Thread:57; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:51:53.9399998; Thread:57; Message:Phantom Log - Url Change about:blank
+devenv.exe Information: 0 : Time:09:51:53.9440143; Thread:57; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:51:53.9530455; Thread:36; Message:Finished reading stream from test file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:51:53.9570442; Thread:36; Message:Ended headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 275176 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:51:53.9610552; Thread:36; Message:Test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts' finished with 0 passed, 1 failed and 0 errors
+devenv.exe Information: 0 : Time:09:51:53.9650659; Thread:36; Message:Finished running headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:51:53.9690783; Thread:36; Message:Finished test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:51:53.9720865; Thread:48; Message:Cleaning up test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:51:53.9770983; Thread:48; Message:Chutzpah run finished with 0 passed, 1 failed and 0 errors
+devenv.exe Information: 0 : Time:09:51:53.9811114; Thread:48; Message:Chutzpah.json file cache cleared
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: kind
+TS:Unknown property name: kind
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: contextSpan
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: endOfLineState
+TS:Unknown property name: containerName
+TS:Unknown property name: contextSpan
+TS:Unknown property name: isLocal
+devenv.exe Information: 0 : Time:09:54:09.5929118; Thread:28; Message:Begin OnProjectItemChanged
+devenv.exe Information: 0 : Time:09:54:09.6350287; Thread:28; Message:Determining if c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts might be a test file
+devenv.exe Information: 0 : Time:09:54:09.6410511; Thread:28; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:54:09.6470653; Thread:28; Message:Removed test container for 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:54:09.6530831; Thread:28; Message:Added test container for 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:54:09.6600998; Thread:28; Message:Begin OnTestContainersChanged
+devenv.exe Information: 0 : Time:09:54:09.6651130; Thread:28; Message:End OnTestContainersChanged
+devenv.exe Information: 0 : Time:09:54:09.6701269; Thread:28; Message:End OnProjectItemChanged
+devenv.exe Information: 0 : Time:09:54:09.6761471; Thread:38; Message:Begin GetTestContainers
+devenv.exe Information: 0 : Time:09:54:09.6831610; Thread:38; Message:End GetTestContainers
+Informational: ------ Discover test started ------
+TS:Unknown property name: kind
+TS:Unknown property name: kind
+TS:Unknown property name: isInString
+TS:Unknown property name: endOfLineState
+testhost.x86.exe Information: 0 : Time:09:54:12.6278918; Thread:3; Message:Chutzpah run started in mode Discovery with parallelism set to 4
+testhost.x86.exe Information: 0 : Time:09:54:12.6504501; Thread:8; Message:Trying to build test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:54:12.6684981; Thread:8; Message:Building test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:54:12.7106109; Thread:8; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+testhost.x86.exe Information: 0 : Time:09:54:12.7612446; Thread:8; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+testhost.x86.exe Information: 0 : Time:09:54:12.8008506; Thread:8; Message:Added file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:09:54:12.8419612; Thread:8; Message:Processing referenced file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+testhost.x86.exe Information: 0 : Time:09:54:12.8645195; Thread:8; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+testhost.x86.exe Information: 0 : Time:09:54:12.9076348; Thread:8; Message:Added file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:09:54:12.9457358; Thread:8; Message:Processing referenced file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\node_modules\requirejs\require.js' for expanded references
+testhost.x86.exe Information: 0 : Time:09:54:12.9607767; Thread:8; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+testhost.x86.exe Information: 0 : Time:09:54:12.9813304; Thread:8; Message:Added file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:09:54:12.9888507; Thread:8; Message:Processing referenced file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\Webresources\sf365_\js\checkin.js' for expanded references
+testhost.x86.exe Information: 0 : Time:09:54:13.0344723; Thread:8; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+testhost.x86.exe Information: 0 : Time:09:54:13.0765847; Thread:8; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+testhost.x86.exe Information: 0 : Time:09:54:13.0851060; Thread:8; Message:Added framework dependency 'C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:09:54:13.1036558; Thread:8; Message:Finished building test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:54:13.1372458; Thread:3; Message:Skipping batch compile since all files are update to date for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\chutzpah.json
+testhost.x86.exe Information: 0 : Time:09:54:13.1643177; Thread:3; Message:Start test run for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:09:54:13.3152203; Thread:3; Message:Using builtin Test Harness from C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+testhost.x86.exe Information: 0 : Time:09:54:13.3828988; Thread:3; Message:Invoking headless browser on test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:54:13.4861738; Thread:3; Message:Started headless browser: C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\phantomjs.exe with PID: 265816 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html" discovery 10000 False 
+TS:Unknown property name: contextSpan
+testhost.x86.exe Information: 0 : Time:09:54:15.8946200; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:54:15.9016103; Thread:11; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:54:15.9086284; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:15.9126405; Thread:11; Message:Phantom Log - Url Change file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:54:15.9176526; Thread:11; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:54:15.9251729; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html
+testhost.x86.exe Information: 0 : Time:09:54:15.9316900; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:15.9427206; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:09:54:15.9502405; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:15.9627732; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:09:54:15.9687892; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:15.9778127; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:09:54:15.9823255; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:15.9958618; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:09:54:16.0023785; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0144112; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0189233; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0284478; Thread:11; Message:Phantom Log - Resource Recieved: file:///C:/USERS/BERNARA/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_94E4EBE3/EXTENSIONS/IHQ5AKBS.ZTS/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0324592; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0384749; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0469973; Thread:11; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0515087; Thread:11; Message:Phantom Log - onQUnitLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0575349; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0625399; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0660481; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0700581; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0790833; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:09:54:16.0830944; Thread:11; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:09:54:16.0871036; Thread:11; Message:Phantom Log - onPageLoaded
+testhost.x86.exe Information: 0 : Time:09:54:16.0936210; Thread:11; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:09:54:16.0966296; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:09:54:16.1006406; Thread:10; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:09:54:16.1066563; Thread:10; Message:Phantom Log - Starting QUnit from inline AMD call...
+testhost.x86.exe Information: 0 : Time:09:54:16.1628049; Thread:10; Message:Test Case Started:'Client Unit Tests:checkin Test'
+testhost.x86.exe Information: 0 : Time:09:54:16.2465283; Thread:10; Message:Test Case Finished:'Client Unit Tests:checkin Test'
+testhost.x86.exe Information: 0 : Time:09:54:16.2565553; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:54:16.2635735; Thread:10; Message:Phantom Log - Url Change about:blank
+testhost.x86.exe Information: 0 : Time:09:54:16.2685870; Thread:10; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:09:54:16.3668477; Thread:3; Message:Finished reading stream from test file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:54:16.3748701; Thread:3; Message:Ended headless browser: C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\phantomjs.exe with PID: 265816 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\BERNARA\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_94E4EBE3\EXTENSIONS\IHQ5AKBS.ZTS\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/users/bernara/documents/github/sf365_/sf365/webresources/unittests/_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:09:54:16.3843953; Thread:3; Message:Test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts' finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:09:54:16.3924163; Thread:3; Message:Finished running headless browser on test harness 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\_Chutzpah.5a71f23a0501e85625ce6096fbc1808fd0aa43d4.test.html' for file 'c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:09:54:16.3984320; Thread:3; Message:Finished test run for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:09:54:16.4159786; Thread:3; Message:Cleaning up test context for c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:09:54:16.4335255; Thread:3; Message:Chutzpah run finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:09:54:16.4430522; Thread:3; Message:Chutzpah.json file cache cleared
+testhost.x86.exe Information: 0 : Time:09:54:16.4475636; Thread:3; Message:End Test Adapter Discover Tests
+Informational: ========== Discover test finished: 1 found (0:00:06.9940122) ==========
+devenv.exe Information: 0 : Time:09:54:25.5343036; Thread:27; Message:Chutzpah.json file found at C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json given starting directory C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests
+devenv.exe Information: 0 : Time:09:54:25.5473381; Thread:27; Message:Chutzpah run started in mode Execution with parallelism set to 4
+devenv.exe Information: 0 : Time:09:54:25.5583679; Thread:27; Message:Trying to build test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:25.5643836; Thread:27; Message:Building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:25.5729057; Thread:27; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:54:25.5799245; Thread:27; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+devenv.exe Information: 0 : Time:09:54:25.5929597; Thread:27; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:25.6014902; Thread:27; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:25.6105060; Thread:27; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+devenv.exe Information: 0 : Time:09:54:25.6185269; Thread:27; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:25.6270497; Thread:27; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:25.6340689; Thread:27; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+devenv.exe Information: 0 : Time:09:54:25.6415895; Thread:27; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:25.6596361; Thread:27; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:25.7152855; Thread:27; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+devenv.exe Information: 0 : Time:09:54:25.7213015; Thread:27; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+devenv.exe Information: 0 : Time:09:54:25.7288207; Thread:27; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+devenv.exe Information: 0 : Time:09:54:25.7343353; Thread:27; Message:Finished building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:25.7413542; Thread:27; Message:Skipping batch compile since all files are update to date for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json
+devenv.exe Information: 0 : Time:09:54:25.7473702; Thread:27; Message:Start test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:54:25.7659193; Thread:27; Message:Using builtin Test Harness from c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+devenv.exe Information: 0 : Time:09:54:25.7804584; Thread:27; Message:Invoking headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:54:25.8250786; Thread:27; Message:Started headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 259792 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:54:27.8986194; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:54:27.9066407; Thread:61; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:54:27.9126571; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:27.9181713; Thread:61; Message:Phantom Log - Url Change file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:54:27.9246891; Thread:61; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:54:27.9312058; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html
+devenv.exe Information: 0 : Time:09:54:27.9387261; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:27.9447418; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:54:27.9507588; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:27.9577777; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/chutzpah_boot.js
+devenv.exe Information: 0 : Time:09:54:27.9662994; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:27.9748232; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:54:27.9838460; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:27.9903680; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+devenv.exe Information: 0 : Time:09:54:27.9953871; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:28.0008911; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:54:28.0079100; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:28.0139306; Thread:61; Message:Phantom Log - Resource Recieved: file:///c:/users/bernara/appdata/local/microsoft/visualstudio/15.0_94e4ebe3/extensions/ihq5akbs.zts/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+devenv.exe Information: 0 : Time:09:54:28.0194533; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:28.0289658; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:54:28.0344801; Thread:61; Message:Phantom Log - isQunitLoaded
+devenv.exe Information: 0 : Time:09:54:28.0445074; Thread:61; Message:Phantom Log - onQUnitLoaded
+devenv.exe Information: 0 : Time:09:54:28.0635587; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+devenv.exe Information: 0 : Time:09:54:28.0720811; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/requirejs/require.js
+devenv.exe Information: 0 : Time:09:54:28.0780971; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/node_modules/requirejs/require.js
+devenv.exe Information: 0 : Time:09:54:28.0841131; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:54:28.0921341; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/Webresources/sf365_/js/checkin.js
+devenv.exe Information: 0 : Time:09:54:28.0976486; Thread:61; Message:Phantom Log - Test file is using module loader.
+devenv.exe Information: 0 : Time:09:54:28.1076753; Thread:61; Message:Phantom Log - onPageLoaded
+devenv.exe Information: 0 : Time:09:54:28.1151956; Thread:61; Message:Phantom Log - Test file is using module loader.
+devenv.exe Information: 0 : Time:09:54:28.1237184; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/checkin-tests.js
+devenv.exe Information: 0 : Time:09:54:28.1297344; Thread:61; Message:Phantom Log - Resource Recieved: file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/checkin-tests.js
+devenv.exe Information: 0 : Time:09:54:28.1352486; Thread:61; Message:Phantom Log - Starting QUnit from inline AMD call...
+devenv.exe Information: 0 : Time:09:54:28.1437717; Thread:61; Message:Test Case Started:'Client Unit Tests:checkin Test'
+devenv.exe Information: 0 : Time:09:54:28.1517927; Thread:61; Message:Phantom Log - Alert raised with message bar
+devenv.exe Information: 0 : Time:09:54:28.1603155; Thread:61; Message:File C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts, Test checkin Test passed
+devenv.exe Information: 0 : Time:09:54:28.1668329; Thread:61; Message:Test Case Finished:'Client Unit Tests:checkin Test'
+devenv.exe Information: 0 : Time:09:54:28.1743546; Thread:61; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:54:28.1808699; Thread:61; Message:Phantom Log - Url Change about:blank
+devenv.exe Information: 0 : Time:09:54:28.1858830; Thread:61; Message:Phantom Log - onInitialized
+devenv.exe Information: 0 : Time:09:54:28.2395285; Thread:27; Message:Finished reading stream from test file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:54:28.2455420; Thread:27; Message:Ended headless browser: c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\phantomjs.exe with PID: 259792 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///C:/Users/bernara/Documents/GitHub/SF365_/SF365/Webresources/unittests/_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html" execution 10000 False 
+devenv.exe Information: 0 : Time:09:54:28.2495590; Thread:27; Message:Test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts' finished with 1 passed, 0 failed and 0 errors
+devenv.exe Information: 0 : Time:09:54:28.2545666; Thread:27; Message:Finished running headless browser on test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts'
+devenv.exe Information: 0 : Time:09:54:28.2605819; Thread:27; Message:Finished test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:54:28.2681021; Thread:27; Message:Cleaning up test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:28.2756224; Thread:27; Message:Chutzpah run finished with 1 passed, 0 failed and 0 errors
+devenv.exe Information: 0 : Time:09:54:28.2806359; Thread:27; Message:Chutzpah.json file cache cleared
+devenv.exe Information: 0 : Time:09:54:47.5456353; Thread:16; Message:Chutzpah.json file found at C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json given starting directory C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests
+devenv.exe Information: 0 : Time:09:54:47.5526534; Thread:16; Message:Chutzpah run started in mode Execution with parallelism set to 4
+devenv.exe Information: 0 : Time:09:54:47.5581680; Thread:16; Message:Trying to build test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:47.5631815; Thread:16; Message:Building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:47.5787260; Thread:16; Message:Test file c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests\checkin-tests.ts matched folder c:\users\bernara\documents\github\sf365_\sf365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+devenv.exe Information: 0 : Time:09:54:47.5837370; Thread:16; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+devenv.exe Information: 0 : Time:09:54:47.5922594; Thread:16; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:47.5992776; Thread:16; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:47.6062968; Thread:16; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+devenv.exe Information: 0 : Time:09:54:47.6123128; Thread:16; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:47.6183288; Thread:16; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\node_modules\requirejs\require.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:47.6243451; Thread:16; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+devenv.exe Information: 0 : Time:09:54:47.6313643; Thread:16; Message:Added file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+devenv.exe Information: 0 : Time:09:54:47.6378811; Thread:16; Message:Processing referenced file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js' for expanded references
+devenv.exe Information: 0 : Time:09:54:47.6479130; Thread:16; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+devenv.exe Information: 0 : Time:09:54:47.6624454; Thread:16; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+devenv.exe Information: 0 : Time:09:54:47.6724728; Thread:16; Message:Added framework dependency 'c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+devenv.exe Information: 0 : Time:09:54:47.6774867; Thread:16; Message:Finished building test context for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts
+devenv.exe Information: 0 : Time:09:54:47.6830009; Thread:16; Message:Skipping batch compile since all files are update to date for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\chutzpah.json
+devenv.exe Information: 0 : Time:09:54:47.6905222; Thread:16; Message:Start test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:54:47.7105749; Thread:16; Message:Using builtin Test Harness from c:\users\bernara\appdata\local\microsoft\visualstudio\15.0_94e4ebe3\extensions\ihq5akbs.zts\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+devenv.exe Information: 0 : Time:09:54:47.7276194; Thread:16; Message:Launching test harness 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\_Chutzpah.53c380c4e9ccd87ff07124d19a36e6234c85fc07.test.html' for file 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts' in a browser
+devenv.exe Information: 0 : Time:09:54:47.8173577; Thread:16; Message:Finished test run for C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\unittests\checkin-tests.ts in Execution mode
+devenv.exe Information: 0 : Time:09:54:47.8248776; Thread:16; Message:Chutzpah run finished with 0 passed, 0 failed and 0 errors
+devenv.exe Information: 0 : Time:09:54:47.8298915; Thread:16; Message:Chutzpah.json file cache cleared
+ResolveFWLinkAccountManager statusCode is redirect: 'True'
+ResolveFWLinkAccountManager resovled fwlink from 'https://go.microsoft.com/fwlink/?LinkID=415837' to 'https://app.vssps.visualstudio.com/'
+devenv.exe Information: 0 : Time:14:55:37.2075942; Thread:1; Message:Begin OnProjectItemChanged
+devenv.exe Information: 0 : Time:15:40:35.1465856; Thread:1; Message:Begin OnProjectItemChanged
+Informational: ------ Discover test started ------
+Warning: No test is available in C:\Users\bernara\Documents\GitHub\SF365_\SF365\Plugins\Plugins.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\Solution.csproj C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:03.4734066) ==========

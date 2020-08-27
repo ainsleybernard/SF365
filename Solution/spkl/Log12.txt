@@ -3,3 +3,11 @@
 2:11:36 PM	Processing Component: WebResources
 2:11:36 PM	 - sf365_js/checkin.js
 2:11:36 PM	Creating: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js.data.xml
+2:34:42 PM	Skipping 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js' as it matches a mapping directive
+2:34:42 PM	Processing Component: CustomControls
+2:34:42 PM	Processing Component: EntityDataProviders
+2:34:42 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Customizations.xml
+2:34:42 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Solution.xml
+2:34:42 PM	
+2:34:42 PM	Unmanaged Extract complete.
+2:34:42 PM	

@@ -1,0 +1,36 @@
+3:13:10 PM	 - Account
+3:13:10 PM	Writing: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:13:10 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+3:13:10 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\RibbonDiff.xml
+3:13:10 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\Entity.xml
+3:13:10 PM	Processing Component: Roles
+3:13:10 PM	Processing Component: Workflows
+3:13:10 PM	Processing Component: FieldSecurityProfiles
+3:13:10 PM	Processing Component: Templates
+3:13:10 PM	Processing Component: EntityMaps
+3:13:10 PM	Processing Component: EntityRelationships
+3:13:10 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Relationships.xml
+3:13:10 PM	Processing Component: optionsets
+3:13:10 PM	Processing Component: WebResources
+3:13:10 PM	 - sf365_js/checkin.js
+3:13:10 PM	No change: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js.data.xml
+3:18:23 PM	Processing Component: Entities
+3:26:33 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+3:26:33 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:26:33 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+3:26:33 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+3:26:33 PM	
+3:26:33 PM	Packing C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip
+3:26:33 PM	
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Relationships.xml
+3:26:33 PM	Processing Component: OrganizationSettings
+3:26:33 PM	Processing Component: optionsets
+3:26:33 PM	Processing Component: WebResources
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js.data.xml
+3:26:33 PM	 - sf365_js/checkin.js
+3:26:33 PM	Mapping: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:26:33 PM	Processing Component: CustomControls
+3:26:33 PM	
+3:26:33 PM	Unmanaged Pack complete.
+3:26:33 PM	

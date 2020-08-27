@@ -1,4 +1,4 @@
-/// <reference path="../../node_modules/@types/knockout/index.d.ts" />
+/// <reference path="../../../node_modules/@types/knockout/index.d.ts" />
 var sf365;
 (function (sf365) {
     var checkin;
@@ -12,6 +12,7 @@ var sf365;
             };
             return CheckInViewModel;
         }());
+        checkin.CheckInViewModel = CheckInViewModel;
     })(checkin = sf365.checkin || (sf365.checkin = {}));
 })(sf365 || (sf365 = {}));
 //# sourceMappingURL=checkin.js.map

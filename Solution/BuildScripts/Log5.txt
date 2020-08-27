@@ -1,0 +1,19 @@
+3:59:18 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+3:59:18 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:59:18 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+3:59:18 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+3:59:18 PM	
+3:59:18 PM	Packing C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365_1_1_123_1.zip
+3:59:18 PM	
+3:59:18 PM	
+3:59:18 PM	Unmanaged Pack complete.
+3:59:18 PM	
+3:59:18 PM	3 warnings encountered
+3:59:18 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:59:18 PM	Following root components are not defined in customizations:
+3:59:18 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:59:18 PM	
+3:59:18 PM	Following root components are not defined in customizations:
+3:59:18 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:59:18 PM	
+3:59:18 PM	CrmSvcUtil Runtime = 00:00:00.5999421

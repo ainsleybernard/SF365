@@ -1,0 +1,48 @@
+3:44:06 PM	Reading mapping directives...
+3:44:06 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+3:44:06 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:44:06 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+3:44:06 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+3:44:06 PM	
+3:44:06 PM	Packing C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365n_1_1_123_1.zip
+3:44:06 PM	
+3:44:07 PM	Processing Component: Entities
+3:44:07 PM	 - Account
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\Entity.xml
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\RibbonDiff.xml
+3:44:07 PM	Processing Component: Roles
+3:44:07 PM	Processing Component: Workflows
+3:44:07 PM	Processing Component: FieldSecurityProfiles
+3:44:07 PM	Processing Component: Templates
+3:44:07 PM	Processing Component: EntityMaps
+3:44:07 PM	Processing Component: EntityRelationships
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Other\Relationships.xml
+3:44:07 PM	Processing Component: OrganizationSettings
+3:44:07 PM	Processing Component: optionsets
+3:44:07 PM	Processing Component: WebResources
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\WebResources\sf365_js\checkin.js.data.xml
+3:44:07 PM	 - sf365_js/checkin.js
+3:44:07 PM	Mapping: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:44:07 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:44:07 PM	Processing Component: CustomControls
+3:44:07 PM	Processing Component: EntityDataProviders
+3:44:07 PM	Following root components are not defined in customizations:
+3:44:07 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:44:07 PM	
+3:44:07 PM	Following root components are not defined in customizations:
+3:44:07 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:44:07 PM	
+3:44:07 PM	
+3:44:07 PM	Unmanaged Pack complete.
+3:44:07 PM	
+3:44:07 PM	3 warnings encountered
+3:44:07 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:44:07 PM	Following root components are not defined in customizations:
+3:44:07 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:44:07 PM	
+3:44:07 PM	Following root components are not defined in customizations:
+3:44:07 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:44:07 PM	
+3:44:07 PM	CrmSvcUtil Runtime = 00:00:00.9039223

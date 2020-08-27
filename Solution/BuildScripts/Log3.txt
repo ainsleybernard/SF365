@@ -1,0 +1,10 @@
+3:59:18 PM	Reading mapping directives...
+3:59:18 PM	Processing Component: Entities
+3:59:18 PM	 - Account
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\Entity.xml
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:59:18 PM	 - sf365_js/checkin.js
+3:59:18 PM	Mapping: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\WebResources\sf365_js\checkin.js to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Webresources\Webresources\sf365_\js\checkin.js
+3:59:18 PM	Processing Component: CustomControls
+3:59:18 PM	Processing Component: EntityDataProviders

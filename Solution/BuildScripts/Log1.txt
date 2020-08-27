@@ -1,0 +1,16 @@
+3:44:05 PM	Packing Solution
+3:44:05 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spkl.json'
+3:44:05 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..'
+3:44:06 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+3:44:06 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+3:44:06 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365n_1_1_123_1.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+3:44:07 PM	Solution Packed to 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365n_1_1_123_1.zip'
+3:44:07 PM	Processed 1 config(s)
+3:59:17 PM	Packing Solution
+3:59:17 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spkl.json'
+3:59:17 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..'
+3:59:17 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+3:59:17 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+3:59:17 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365_1_1_123_1.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+3:59:18 PM	Solution Packed to 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\spaceFlight365_1_1_123_1.zip'
+3:59:18 PM	Processed 1 config(s)

@@ -1,0 +1,36 @@
+2:34:42 PM	Reading mapping directives...
+2:34:42 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2:34:42 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2:34:42 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2:34:42 PM	Read-only files will be over-written or deleted.
+2:34:42 PM	
+2:34:42 PM	Extracting C:\Users\bernara\AppData\Local\Temp\tmp1BCB.zip to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package
+2:34:42 PM	
+2:34:42 PM	Processing Component: Entities
+2:34:42 PM	 - Account
+2:34:42 PM	Writing: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2:34:43 PM	1 warnings encountered
+2:34:43 PM	Read-only files will be over-written or deleted.
+2:34:43 PM	CrmSvcUtil Runtime = 00:00:00.6117534
+3:13:10 PM	Reading mapping directives...
+3:13:10 PM	
+3:13:10 PM	Extracting C:\Users\bernara\AppData\Local\Temp\tmp5A31.zip to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package
+3:13:10 PM	
+3:13:10 PM	Processing Component: Entities
+3:26:33 PM	Reading mapping directives...
+3:26:33 PM	Processing Component: Entities
+3:26:33 PM	 - Account
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\Entity.xml
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+3:26:33 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\RibbonDiff.xml
+3:26:33 PM	Processing Component: Roles
+3:26:33 PM	3 warnings encountered
+3:26:33 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:26:33 PM	Following root components are not defined in customizations:
+3:26:33 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:26:33 PM	
+3:26:33 PM	Following root components are not defined in customizations:
+3:26:33 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:26:33 PM	
+3:26:33 PM	CrmSvcUtil Runtime = 00:00:00.6493336

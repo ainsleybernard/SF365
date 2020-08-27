@@ -40,8 +40,8 @@ namespace SF365.Plugins
         /// <param name="localcontext"></param>
         protected override void ExecuteCrmPlugin(LocalPluginContext localcontext)
         {
-            // throw new InvalidPluginExecutionException("Working on it");
-            base.ExecuteCrmPlugin(localcontext);
+            throw new InvalidPluginExecutionException("Working on it");
+            // base.ExecuteCrmPlugin(localcontext);
         }
     }
 }

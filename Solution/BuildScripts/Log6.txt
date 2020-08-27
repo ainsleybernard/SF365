@@ -1,0 +1,19 @@
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Entities\Account\RibbonDiff.xml
+3:59:18 PM	Processing Component: Roles
+3:59:18 PM	Processing Component: Workflows
+3:59:18 PM	Processing Component: FieldSecurityProfiles
+3:59:18 PM	Processing Component: Templates
+3:59:18 PM	Processing Component: EntityMaps
+3:59:18 PM	Processing Component: EntityRelationships
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\Other\Relationships.xml
+3:59:18 PM	Processing Component: OrganizationSettings
+3:59:18 PM	Processing Component: optionsets
+3:59:18 PM	Processing Component: WebResources
+3:59:18 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\BuildScripts\..\package\WebResources\sf365_js\checkin.js.data.xml
+3:59:18 PM	Following root components are not defined in customizations:
+3:59:18 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:59:18 PM	
+3:59:18 PM	Following root components are not defined in customizations:
+3:59:18 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:59:18 PM	

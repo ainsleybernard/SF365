@@ -52,6 +52,8 @@
     <None Include="bin\coretools\CrmSvcUtil.exe.config" />
     <None Include="bin\coretools\LicenseTerms.docx" />
     <None Include="bin\coretools\SolutionPackager.exe.config" />
+    <None Include="BuildScripts\pack.bat" />
+    <None Include="BuildScripts\UpdateBuildVersion.ps1" />
     <None Include="packages.config" />
     <None Include="spkl.json" />
     <None Include="spkl\deploy-plugins.bat" />
@@ -85,7 +87,6 @@
     <Content Include="bin\coretools\System.Diagnostics.DiagnosticSource.dll" />
     <Content Include="bin\coretools\System.ValueTuple.dll" />
     <Content Include="package\**" />
-
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\" />

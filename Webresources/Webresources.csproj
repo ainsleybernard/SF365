@@ -110,6 +110,7 @@
     <Content Include="spkl\deploy-webresources.bat" />
     <Content Include="spkl\deploy-plugins.bat" />
     <Content Include="spkl.json" />
+    <Content Include="unittests\chutzpah.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -122,6 +123,7 @@
     <Folder Include="Webresources\sf365_\imgs\" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="unittests\checkin-tests.ts" />
     <TypeScriptCompile Include="Webresources\sf365_\js\checkin.ts" />
   </ItemGroup>
   <ItemGroup>

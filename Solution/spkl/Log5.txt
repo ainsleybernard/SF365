@@ -1,0 +1,37 @@
+3:18:23 PM	Reading mapping directives...
+3:18:23 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+3:18:23 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:18:23 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+3:18:23 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+3:18:23 PM	
+3:18:23 PM	Packing C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package to C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip
+3:18:23 PM	
+3:18:23 PM	 - Account
+3:18:23 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\Entity.xml
+3:18:23 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:18:23 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+3:18:23 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Entities\Account\RibbonDiff.xml
+3:18:23 PM	Processing Component: Roles
+3:18:23 PM	Processing Component: Workflows
+3:18:23 PM	Processing Component: FieldSecurityProfiles
+3:18:23 PM	Processing Component: Templates
+3:18:23 PM	Processing Component: EntityMaps
+3:18:23 PM	Processing Component: EntityRelationships
+3:18:23 PM	Reading: C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\Other\Relationships.xml
+3:18:23 PM	Processing Component: OrganizationSettings
+3:18:23 PM	Processing Component: EntityDataProviders
+3:18:23 PM	Following root components are not defined in customizations:
+3:18:23 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:18:23 PM	
+3:18:23 PM	Following root components are not defined in customizations:
+3:18:23 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:18:23 PM	
+3:18:24 PM	3 warnings encountered
+3:18:24 PM	Map folder 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package\PluginAssemblies\' does not exist.
+3:18:24 PM	Following root components are not defined in customizations:
+3:18:24 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:18:24 PM	
+3:18:24 PM	Following root components are not defined in customizations:
+3:18:24 PM	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+3:18:24 PM	
+3:18:24 PM	CrmSvcUtil Runtime = 00:00:00.5599387

@@ -8,3 +8,41 @@
 2:11:36 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
 2:11:36 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\bernara\AppData\Local\Temp\tmpFF93.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 2:11:37 PM	Processed 1 config(s)
+2:34:15 PM	Unpacking solution
+2:34:15 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\spkl\..'
+2:34:15 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution'
+2:34:42 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+2:34:42 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+2:34:42 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\bernara\AppData\Local\Temp\tmp1BCB.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+2:34:43 PM	Processed 1 config(s)
+3:12:45 PM	Unpacking solution
+3:12:45 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\spkl\..'
+3:12:45 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution'
+3:13:09 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+3:13:09 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+3:13:09 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\bernara\AppData\Local\Temp\tmp5A31.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+3:13:10 PM	Processed 1 config(s)
+3:18:23 PM	Packing & Import Solution
+3:18:23 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\spkl\..'
+3:18:23 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution'
+3:18:23 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+3:18:23 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+3:18:23 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+3:18:24 PM	Solution Packed to 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip'
+3:18:24 PM	Importing solution 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip'...
+3:18:24 PM	.3:18:26 PM	.3:18:28 PM	.3:18:30 PM	.3:18:32 PM	.3:18:35 PM	.3:18:37 PM	.3:18:39 PM	.3:18:41 PM	.3:18:43 PM	.3:18:45 PM	.3:18:47 PM	.3:18:49 PM	.3:18:51 PM	.3:18:53 PM	
+Solution Import Completed. Now publishing....
+3:19:50 PM	Solution Publish Completed
+3:19:50 PM	Processed 1 config(s)
+3:26:32 PM	Packing & Import Solution
+3:26:32 PM	Searching for packager config in 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\spkl\..'
+3:26:32 PM	Using Config 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution'
+3:26:32 PM	Target C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools
+3:26:32 PM	Map xml created at 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\packager_map.xml'
+3:26:32 PM	Running C:\Users\bernara\Documents\GitHub\SF365_\SF365\packages\spkl.1.0.431\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.25\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip" /folder:"C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+3:26:33 PM	Solution Packed to 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip'
+3:26:33 PM	Importing solution 'C:\Users\bernara\Documents\GitHub\SF365_\SF365\Solution\solution_1_1_0_0.zip'...
+3:26:33 PM	.3:26:35 PM	.3:26:38 PM	.3:26:40 PM	.3:26:42 PM	.3:26:44 PM	.3:26:46 PM	.3:26:48 PM	.3:26:50 PM	.3:26:52 PM	.3:26:54 PM	.3:26:56 PM	.3:26:58 PM	
+Solution Import Completed. Now publishing....
+3:27:21 PM	Solution Publish Completed
+3:27:21 PM	Processed 1 config(s)
